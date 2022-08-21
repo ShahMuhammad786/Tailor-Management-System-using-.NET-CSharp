@@ -1,0 +1,13 @@
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\bin\Debug\Rex Tailors Management System.exe.config
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\bin\Debug\Rex Tailors Management System.exe
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\bin\Debug\Rex Tailors Management System.pdb
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.login.resources
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.Properties.Resources.resources
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex Tailors Management System.csproj.GenerateResource.cache
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex Tailors Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex Tailors Management System.exe
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex Tailors Management System.pdb
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.Index.resources
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.placeOrder.resources
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.Payments.resources
+C:\Users\Shah Muhammad\source\repos\Rex Tailors Management System\Rex Tailors Management System\obj\Debug\Rex_Tailors_Management_System.CompleteOrder.resources
